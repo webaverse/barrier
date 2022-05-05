@@ -1,5 +1,6 @@
 {
   "name": "barrier",
+  "description": "barrier",
   "start_url": "index.js",
   "components": {
     "activate": true
